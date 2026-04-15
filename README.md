@@ -1,5 +1,4 @@
-# 💫 About Me:
- I’m currently working on<br><br><br>Building and improving projects under Sly Systems<br><br><br>Personal cybersecurity labs and hands-on practice<br><br><br>👯 I’m looking to collaborate on<br><br><br>Web development projects (React / full-stack)<br><br><br>Beginner to intermediate cybersecurity projects<br><br><br>🤝 I’m looking for help with<br><br><br>Advanced cybersecurity concepts<br><br><br>Real-world penetration testing & security workflows<br><br><br>🌱 I’m currently learning<br><br><br>Cybersecurity (network security, threat detection)<br><br><br>React & modern web frameworks<br><br><br>C, C#, Python, and JavaScript<br><br><br>💬 Ask me about<br><br><br>Web development<br><br><br>Cybersecurity basics<br><br><br>Setting up projects / getting started<br><br><br>⚡ Fun fact<br><br><br>I balance tech, work, and building my own brand while working night shifts<br><br><br><br><br>
+# 💫 About Me: Cyber Security student working on Sly Systems and hands-on cybersecurity labs, open to collaboration on web development and cybersecurity projects, currently learning network security, React, and programming in C, C#, Python, and JavaScript, with a strong interest in building secure and scalable systems
 
 
 ## 🌐 Socials:
