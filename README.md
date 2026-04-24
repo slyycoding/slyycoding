@@ -1,5 +1,5 @@
 
- Cyber Security student working on Sly Systems and hands-on cybersecurity labs, open to collaboration on web development and cybersecurity projects, currently learning network security, React, and programming in C, C#, Python, and JavaScript, with a strong interest in building secure and scalable systems
+ Cyber Security student working on Sly Systems and hands-on cybersecurity labs, open to collaboration on web development and cybersecurity projects, currently learning network security, React, Typescript and programming in C, C#, Python, and JavaScript, with a strong interest in building secure and scalable systems
 
 
 ## 🌐 Socials:
